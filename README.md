@@ -1,2 +1,17 @@
-# task-manager-php-app
-A simple Task Manager web application built using HTML, CSS, PHP, and JSON for local storage. Developed as part of the Oritso Entry-Level IT assignment.
+#  Task Manager PHP App
+
+This is a basic Task Manager web application built using **PHP, HTML, CSS**, and **JSON file** for storage.
+
+## Features
+- Add, Edit, Delete Tasks
+- Mark as Complete / Pending
+- Filter by Status
+- Data stored in `data.json` file (no database required)
+
+##  Tech Stack
+- Frontend: HTML, CSS
+- Backend: PHP
+- Storage: JSON File
+
+
+
